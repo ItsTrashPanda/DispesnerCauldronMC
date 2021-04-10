@@ -10,7 +10,7 @@ I really could care less about this. I put very little effort into it, so little
 # If you like it please share it with your friends!
 Here is Planet Minecraft Link, so like it I guess:
 
-#1.16 Version
+# 1.16 Version
 
 PLanet Minecraft: https://www.planetminecraft.com/data-pack/dispenser-cauldron-v1-1/
 
