@@ -1,8 +1,11 @@
-# Dispesner_Cauldron_V2_MC1.17
-Minecraft Datapack that lets you use a dispenser on a cauldron using buckets.
+# Dispesner_Cauldron_V2.1_MC1.17
+Minecraft Datapack that lets you use a dispenser on a cauldron using buckets or bottles.
 
 # Note From Maker
-As far as I can tell this has no bugs, I do not foresee myself updating this unless bugs arise. In the unlikely case that this becomes popular and people want me to add water bottle functionality or powdered snow, I might do that but otherwise, I consider this finished. This very well may not work in the future as I have developed it while 1.17 is still in its snapshots phase so be aware of that.
+As far as I can tell this has no bugs, I do not foresee myself updating this unless bugs arise.
+
+# Special thanks to SirRandomOne
+He is responsible for adding powdered snow and bottle functionality along with ironing out some bugs from the latest version of 1.17. Check him out here: https://github.com/SirRandomOne
 
 # Pls don't steal this and call it your own
 I really could care less about this. I put very little effort into it, so little that I didn't put any formal copyright on this so... just don't steal it.
