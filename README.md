@@ -1,4 +1,4 @@
-# Dispesner_Cauldron_V2.1_MC1.17
+# DispesnerCauldronMC
 Minecraft Datapack that lets you use a dispenser on a cauldron using buckets or bottles.
 
 # Note From Maker
